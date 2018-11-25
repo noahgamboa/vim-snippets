@@ -1,4 +1,4 @@
-snipMate & UltiSnip Snippets
+snipMate & UltiSnip & quicktex Snippets
 ============================
 
 [![Build Status](https://travis-ci.org/honza/vim-snippets.svg)](https://travis-ci.org/honza/vim-snippets)
@@ -13,6 +13,9 @@ Contents
 
 - `snippets/*`: snippets using snipMate format
 - `UltiSnips/*`: snippets using UltiSnips format
+- `tex/*`: snippets using quicktex format
+
+The rest of this readme is copied from Honza's snippets repo:
 
 Snippet engines supporting vim-snippets
 ----------------------------------------
